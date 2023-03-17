@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\bin\Debug\net6.0\Tarea Semana 8 HectorFlores_04.exe
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\bin\Debug\net6.0\Tarea Semana 8 HectorFlores_04.deps.json
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\bin\Debug\net6.0\Tarea Semana 8 HectorFlores_04.runtimeconfig.json
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\bin\Debug\net6.0\Tarea Semana 8 HectorFlores_04.dll
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\bin\Debug\net6.0\Tarea Semana 8 HectorFlores_04.pdb
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.AssemblyInfo.cs
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.dll
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\refint\Tarea Semana 8 HectorFlores_04.dll
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.pdb
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\Tarea Semana 8 HectorFlores_04.genruntimeconfig.cache
+C:\Users\HP\source\repos\Tarea Semana 8 HectorFlores_04\Tarea Semana 8 HectorFlores_04\obj\Debug\net6.0\ref\Tarea Semana 8 HectorFlores_04.dll
