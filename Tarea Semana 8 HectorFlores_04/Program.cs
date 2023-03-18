@@ -1,7 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
 using System.Dynamic;
 using System.Security.Cryptography.X509Certificates;
 using System.Transactions;
+
+Console.WriteLine("---------------------------------------");
+Console.WriteLine("HECTOR FLORES");
+Console.WriteLine("CARNE: 1199923");
+Console.WriteLine("---------------------------------------");
 
 string bin = " ";
 
@@ -49,7 +55,6 @@ string hex = " ";
 while (true)
 {
 
-
     if ((n1 % 16) != 0)
     {
         if ((n1 % 16) > 9)
@@ -82,18 +87,14 @@ while (true)
             hex = (n1 % 16) + hex;
 
         }
-
-
-
-
-
-
     }
     else
     {
         hex = "0" + hex;
     }
-    n1 /= 16;
+
+    n1 /= 16; // n1 = n1 / 16
+
     if(n1 <= 0)
     {
         break;
